@@ -37,7 +37,7 @@ Hop On Board is a web-based platform designed to simplify public transportation 
 - HTML
 - CSS
 - JavaScript
-- API Integration (OSM API for real-time data)
+- API Integration (OpenStreetMaps API for real-time data)
 
 ## Contributing
 
